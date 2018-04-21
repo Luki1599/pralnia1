@@ -1,8 +1,21 @@
 /* Your custom styles */
 /*Photo by Victoria Palacios on Unsplash*/
 /*Photo by STIL on Unsplash*/
-body{
- background:#ACD7E5;
+/*Photo by Adam Grabek on Unsplash*/
+body  {
+  font-family: 'Orbitron', sans-serif;
+  font-family: 'Libre Baskerville', serif;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Rokkitt', serif;
+  font-size: 1.5em;
+  background:#ACD7E5;
+}
+.card-text{
+  font-family: 'Orbitron', sans-serif;
+  font-family: 'Libre Baskerville', serif;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Rokkitt', serif;
+  font-size: 1.8em;
 }
 .address-icon i{
 	font-size: 36px;
